@@ -1,0 +1,8 @@
+D:\c#\csharp dersi devamı\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi\bin\Debug\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi.exe.config
+D:\c#\csharp dersi devamı\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi\bin\Debug\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi.exe
+D:\c#\csharp dersi devamı\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi\bin\Debug\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi.pdb
+D:\c#\csharp dersi devamı\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi\obj\Debug\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi.csproj.AssemblyReference.cache
+D:\c#\csharp dersi devamı\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi\obj\Debug\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi.csproj.SuggestedBindingRedirects.cache
+D:\c#\csharp dersi devamı\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi\obj\Debug\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi.csproj.CoreCompileInputs.cache
+D:\c#\csharp dersi devamı\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi\obj\Debug\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi.exe
+D:\c#\csharp dersi devamı\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi\obj\Debug\ErisimBelirleyicisiİleProjeYapımıÖğrenciBilgisi.pdb
