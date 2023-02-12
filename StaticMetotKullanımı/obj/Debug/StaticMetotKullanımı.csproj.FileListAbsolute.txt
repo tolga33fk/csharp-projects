@@ -1,0 +1,8 @@
+D:\c#\csharp dersi devamı\StaticMetotKullanımı\bin\Debug\StaticMetotKullanımı.exe.config
+D:\c#\csharp dersi devamı\StaticMetotKullanımı\bin\Debug\StaticMetotKullanımı.exe
+D:\c#\csharp dersi devamı\StaticMetotKullanımı\bin\Debug\StaticMetotKullanımı.pdb
+D:\c#\csharp dersi devamı\StaticMetotKullanımı\obj\Debug\StaticMetotKullanımı.csproj.AssemblyReference.cache
+D:\c#\csharp dersi devamı\StaticMetotKullanımı\obj\Debug\StaticMetotKullanımı.csproj.SuggestedBindingRedirects.cache
+D:\c#\csharp dersi devamı\StaticMetotKullanımı\obj\Debug\StaticMetotKullanımı.csproj.CoreCompileInputs.cache
+D:\c#\csharp dersi devamı\StaticMetotKullanımı\obj\Debug\StaticMetotKullanımı.exe
+D:\c#\csharp dersi devamı\StaticMetotKullanımı\obj\Debug\StaticMetotKullanımı.pdb

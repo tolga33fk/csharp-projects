@@ -1,0 +1,8 @@
+D:\c#\csharp dersi devamı\PropertyPratik1\obj\Debug\PropertyPratik1.csproj.AssemblyReference.cache
+D:\c#\csharp dersi devamı\PropertyPratik1\obj\Debug\PropertyPratik1.csproj.SuggestedBindingRedirects.cache
+D:\c#\csharp dersi devamı\PropertyPratik1\obj\Debug\PropertyPratik1.csproj.CoreCompileInputs.cache
+D:\c#\csharp dersi devamı\PropertyPratik1\bin\Debug\PropertyPratik1.exe.config
+D:\c#\csharp dersi devamı\PropertyPratik1\bin\Debug\PropertyPratik1.exe
+D:\c#\csharp dersi devamı\PropertyPratik1\bin\Debug\PropertyPratik1.pdb
+D:\c#\csharp dersi devamı\PropertyPratik1\obj\Debug\PropertyPratik1.exe
+D:\c#\csharp dersi devamı\PropertyPratik1\obj\Debug\PropertyPratik1.pdb

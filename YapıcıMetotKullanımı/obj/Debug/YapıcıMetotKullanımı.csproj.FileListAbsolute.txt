@@ -1,0 +1,8 @@
+D:\c#\csharp dersi devamı\YapıcıMetotKullanımı\bin\Debug\YapıcıMetotKullanımı.exe.config
+D:\c#\csharp dersi devamı\YapıcıMetotKullanımı\bin\Debug\YapıcıMetotKullanımı.exe
+D:\c#\csharp dersi devamı\YapıcıMetotKullanımı\bin\Debug\YapıcıMetotKullanımı.pdb
+D:\c#\csharp dersi devamı\YapıcıMetotKullanımı\obj\Debug\YapıcıMetotKullanımı.csproj.AssemblyReference.cache
+D:\c#\csharp dersi devamı\YapıcıMetotKullanımı\obj\Debug\YapıcıMetotKullanımı.csproj.SuggestedBindingRedirects.cache
+D:\c#\csharp dersi devamı\YapıcıMetotKullanımı\obj\Debug\YapıcıMetotKullanımı.csproj.CoreCompileInputs.cache
+D:\c#\csharp dersi devamı\YapıcıMetotKullanımı\obj\Debug\YapıcıMetotKullanımı.exe
+D:\c#\csharp dersi devamı\YapıcıMetotKullanımı\obj\Debug\YapıcıMetotKullanımı.pdb

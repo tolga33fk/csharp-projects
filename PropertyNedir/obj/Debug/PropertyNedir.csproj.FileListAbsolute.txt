@@ -1,0 +1,8 @@
+D:\c#\csharp dersi devamı\PropertyNedir\bin\Debug\PropertyNedir.exe.config
+D:\c#\csharp dersi devamı\PropertyNedir\bin\Debug\PropertyNedir.exe
+D:\c#\csharp dersi devamı\PropertyNedir\bin\Debug\PropertyNedir.pdb
+D:\c#\csharp dersi devamı\PropertyNedir\obj\Debug\PropertyNedir.csproj.AssemblyReference.cache
+D:\c#\csharp dersi devamı\PropertyNedir\obj\Debug\PropertyNedir.csproj.SuggestedBindingRedirects.cache
+D:\c#\csharp dersi devamı\PropertyNedir\obj\Debug\PropertyNedir.csproj.CoreCompileInputs.cache
+D:\c#\csharp dersi devamı\PropertyNedir\obj\Debug\PropertyNedir.exe
+D:\c#\csharp dersi devamı\PropertyNedir\obj\Debug\PropertyNedir.pdb

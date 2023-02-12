@@ -1,0 +1,8 @@
+D:\c#\csharp dersi devamı\PublicVePrivateErişimBelirleyicileri\bin\Debug\PublicVePrivateErişimBelirleyicileri.exe.config
+D:\c#\csharp dersi devamı\PublicVePrivateErişimBelirleyicileri\bin\Debug\PublicVePrivateErişimBelirleyicileri.exe
+D:\c#\csharp dersi devamı\PublicVePrivateErişimBelirleyicileri\bin\Debug\PublicVePrivateErişimBelirleyicileri.pdb
+D:\c#\csharp dersi devamı\PublicVePrivateErişimBelirleyicileri\obj\Debug\PublicVePrivateErişimBelirleyicileri.csproj.AssemblyReference.cache
+D:\c#\csharp dersi devamı\PublicVePrivateErişimBelirleyicileri\obj\Debug\PublicVePrivateErişimBelirleyicileri.csproj.SuggestedBindingRedirects.cache
+D:\c#\csharp dersi devamı\PublicVePrivateErişimBelirleyicileri\obj\Debug\PublicVePrivateErişimBelirleyicileri.csproj.CoreCompileInputs.cache
+D:\c#\csharp dersi devamı\PublicVePrivateErişimBelirleyicileri\obj\Debug\PublicVePrivateErişimBelirleyicileri.exe
+D:\c#\csharp dersi devamı\PublicVePrivateErişimBelirleyicileri\obj\Debug\PublicVePrivateErişimBelirleyicileri.pdb
