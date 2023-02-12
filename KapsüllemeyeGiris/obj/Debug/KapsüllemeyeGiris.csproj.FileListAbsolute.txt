@@ -1,0 +1,8 @@
+D:\c#\csharp dersi devamı\KapsüllemeyeGiris\bin\Debug\KapsüllemeyeGiris.exe.config
+D:\c#\csharp dersi devamı\KapsüllemeyeGiris\bin\Debug\KapsüllemeyeGiris.exe
+D:\c#\csharp dersi devamı\KapsüllemeyeGiris\bin\Debug\KapsüllemeyeGiris.pdb
+D:\c#\csharp dersi devamı\KapsüllemeyeGiris\obj\Debug\KapsüllemeyeGiris.csproj.AssemblyReference.cache
+D:\c#\csharp dersi devamı\KapsüllemeyeGiris\obj\Debug\KapsüllemeyeGiris.csproj.SuggestedBindingRedirects.cache
+D:\c#\csharp dersi devamı\KapsüllemeyeGiris\obj\Debug\KapsüllemeyeGiris.csproj.CoreCompileInputs.cache
+D:\c#\csharp dersi devamı\KapsüllemeyeGiris\obj\Debug\KapsüllemeyeGiris.exe
+D:\c#\csharp dersi devamı\KapsüllemeyeGiris\obj\Debug\KapsüllemeyeGiris.pdb

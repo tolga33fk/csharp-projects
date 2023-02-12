@@ -1,0 +1,8 @@
+D:\c#\csharp dersi devamı\inheritance(miras alma)Kullanımı\bin\Debug\inheritance(miras alma)Kullanımı.exe.config
+D:\c#\csharp dersi devamı\inheritance(miras alma)Kullanımı\bin\Debug\inheritance(miras alma)Kullanımı.exe
+D:\c#\csharp dersi devamı\inheritance(miras alma)Kullanımı\bin\Debug\inheritance(miras alma)Kullanımı.pdb
+D:\c#\csharp dersi devamı\inheritance(miras alma)Kullanımı\obj\Debug\inheritance(miras alma)Kullanımı.csproj.AssemblyReference.cache
+D:\c#\csharp dersi devamı\inheritance(miras alma)Kullanımı\obj\Debug\inheritance(miras alma)Kullanımı.csproj.SuggestedBindingRedirects.cache
+D:\c#\csharp dersi devamı\inheritance(miras alma)Kullanımı\obj\Debug\inheritance(miras alma)Kullanımı.csproj.CoreCompileInputs.cache
+D:\c#\csharp dersi devamı\inheritance(miras alma)Kullanımı\obj\Debug\inheritance(miras alma)Kullanımı.exe
+D:\c#\csharp dersi devamı\inheritance(miras alma)Kullanımı\obj\Debug\inheritance(miras alma)Kullanımı.pdb
